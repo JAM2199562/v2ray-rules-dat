@@ -1,3 +1,5 @@
 services.googleapis.cn
 supertop.co
 dexscreener.com
+okx.com
+binance.com
